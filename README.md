@@ -1,6 +1,6 @@
 # 🎉 Welcome to My GitHub!
 
-Hi there, and welcome! 👋 I'm George Williamson-Snape, and this is my personal GitHub page, where I showcase my work in data science and mathematics. Have a look around, and feel free to explore my projects and research!
+Hi there, and welcome! 👋 I'm George Snape, and this is my personal GitHub page, where I showcase my work in data science. Have a look around and feel free to explore my projects and research!
 
 ## 🚀 About Me
 
