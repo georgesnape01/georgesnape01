@@ -9,6 +9,7 @@ Hi there, and welcome! 👋 I'm George Snape, and this is my personal GitHub pag
 - 🧠 My MSc dissertation focused on **predicting CBT outcomes** using machine learning techniques and I'm thrilled to share that it’s on the way to being published!
 - 📊 Passionate about learning and using data to solve complex problems.
 
+<!--
 ## My Portfolio 📁
 
 Check out my [Portfolio Guide](#georgesnape01/Portfolio-Guide) that walks through all the projects I've completed, from machine learning experiments to natural language processing.
@@ -20,6 +21,7 @@ Here are some of the tools and technologies I’ve worked with:
 - **Programming Languages:** Python, R
 - **Libraries/Frameworks:** Hugging Face, Keras, Scikit-learn
 - **Tools:** Power BI, Excel, LaTeX
+--->
 
 ## Let's Connect! 🤝
 
