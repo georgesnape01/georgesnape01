@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🎉
 
-Hi there, and welcome! 👋 I'm George Snape, and this is my personal GitHub page, where I showcase my work in data science. Have a look around and feel free to explore my projects and research! Use this link to find my [Portfolio Guide](https://github.com/georgesnape01/Portfolio-Guide).
+Hi there, and welcome! 👋 I'm George Snape, and this is my personal GitHub page, where I showcase my work in data science. Have a look around and feel free to explore my projects and research using my [Portfolio Guide](https://github.com/georgesnape01/Portfolio-Guide)!
 
 ## About Me 🚀
 
