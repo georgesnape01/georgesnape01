@@ -1,8 +1,8 @@
-# 🎉 Welcome to My GitHub!
+# Welcome to My GitHub! 🎉
 
 Hi there, and welcome! 👋 I'm George Snape, and this is my personal GitHub page, where I showcase my work in data science. Have a look around and feel free to explore my projects and research!
 
-## 🚀 About Me
+## About Me 🚀
 
 - 🎓 **First-Class BSc in Mathematics** from a Russell Group university.
 - 🧠 **Distinction in MSc Data Science** from a Russell Group university.
