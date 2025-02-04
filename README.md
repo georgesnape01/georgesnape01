@@ -7,7 +7,7 @@ Hi there, and welcome! 👋 I'm George Snape, and this is my personal GitHub pag
 - 🔢 **First-Class BSc in Mathematics** from a Russell Group university.
 - 💻 **Distinction in MSc Data Science** also from a Russell Group university.
 - 🧠 My MSc dissertation focused on **predicting CBT outcomes** using machine learning techniques and I'm thrilled to share that it’s on the way to being published!
-- 📊 Passionate about learning and using data to solve complex problems.
+- 🔤 Since university, I have also worked on predicting narratives in news articles, and this work is currently in the process of being published!
 
 <!--
 ## My Portfolio 📁
