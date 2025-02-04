@@ -1,7 +1,6 @@
 # Welcome to My GitHub! 🎉
 
-Hi there, and welcome! ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/user-attachments/assets/e48c9303-a902-4c38-bce6-4573fab6fcf9)
-👋 I'm George Snape, and this is my personal GitHub page, where I showcase my work in data science. Have a look around and feel free to explore my projects and research using my [Portfolio Guide](https://github.com/georgesnape01/Portfolio-Guide)!
+Hi there, and welcome!👋 I'm George Snape, and this is my personal GitHub page, where I showcase my work in data science. Have a look around and feel free to explore my projects and research using my [Portfolio Guide](https://github.com/georgesnape01/Portfolio-Guide)!
 
 ## About Me 🚀
 
