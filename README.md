@@ -1,3 +1,7 @@
+Welcome to my profile!
+
+
+
 - 👋 Hi, I’m @georgesnape01
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
