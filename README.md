@@ -11,7 +11,7 @@ Hi and welcome!👋 I'm George Snape and this is my personal GitHub page, where 
 
 ## Other Links 🤝
 
-- 🔗 [LinkedIn](#) - Feel free to connect with me on LinkedIn.
+- 🔗 [LinkedIn](#) - Feel free to connect with me.
 - 📄 [Download my CV](#)
 - 📄 [Link to my published dissertation paper](#)
 
