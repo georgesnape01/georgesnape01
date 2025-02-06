@@ -11,11 +11,11 @@ Hi and welcome!👋 I'm George Snape and this is my personal GitHub page, where 
 
 ## Other Links 🤝
 
-- 🔗 [LinkedIn](#)
+- 🔗 [LinkedIn](#) - Feel free to connect with me on LinkedIn.
 - 📄 [Download my CV](#)
 - 📄 [Link to my published dissertation paper](#)
 
-Thanks for visting! 😄 Feel free to explore my projects or connect with me if you would like to chat.
+Thanks for visting! 😄
 
 <!--
 ## My Portfolio 📁
