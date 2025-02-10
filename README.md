@@ -9,11 +9,10 @@ Hi and welcome!👋 I'm George Snape and this is my personal GitHub page, where 
 - 🧠 My MSc dissertation focused on **predicting CBT outcomes** using machine learning techniques and I'm thrilled to share that it’s on the way to being published!
 - 🔤 Since university, I have also worked on predicting narratives in news articles, and this work is currently in the process of being published!
 
-## Other Links 🤝
+## Additional Links 🤝
 
 - 🔗 [LinkedIn](#) - Feel free to connect with me.
-- 📄 [Download my CV](#)
-- 📄 [Link to my published dissertation paper](#)
+- 
 
 Thanks for visting! 😄
 
