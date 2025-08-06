@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🎉
 
-Hi and welcome!👋 I'm George and this is my personal GitHub page, where I showcase my work in data science. Use this [link](https://github.com/georgesnape01/Portfolio-Guide) to find my projects. 
+Hi and welcome!👋 I'm George and this is my personal GitHub page where I showcase my work in data science. Use this [link](https://github.com/georgesnape01/Portfolio-Guide) to find my projects. 
 
 ## About Me 🚀
 
